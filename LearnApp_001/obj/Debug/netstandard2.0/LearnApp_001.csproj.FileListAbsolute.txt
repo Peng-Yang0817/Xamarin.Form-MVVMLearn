@@ -1,0 +1,15 @@
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\bin\Debug\netstandard2.0\LearnApp_001.deps.json
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\bin\Debug\netstandard2.0\LearnApp_001.dll
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\bin\Debug\netstandard2.0\LearnApp_001.pdb
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.csproj.AssemblyReference.cache
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.AssemblyInfoInputs.cache
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.AssemblyInfo.cs
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.csproj.CoreCompileInputs.cache
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.dll
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\refint\LearnApp_001.dll
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\LearnApp_001.pdb
+C:\Codding\MyAwesomeApp2\LearnApp_001\LearnApp_001\obj\Debug\netstandard2.0\ref\LearnApp_001.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJ7sdYUG3BP8HsAtZkAruwc/GD5EWC89UkdURVlK2vbnYXFTUpx9ajDyJjqvS1TE9XrvKnphjeYy41BQzukS4g==",
+  "success": true,
+  "projectFilePath": "C:\\Codding\\MyAwesomeApp2\\LearnApp_001\\LearnApp_001.iOS\\LearnApp_001.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tcher\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
+    "C:\\Users\\tcher\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\tcher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tcher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tcher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
